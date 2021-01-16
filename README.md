@@ -18,3 +18,4 @@ WarsawJS Workshop#51
 ### Aplikacja (IIFE)
 1. Wydziel z głównego skryptu aplikacji [app.js](./part-2/app.js) mniejsze moduły np wykorzystując module pattern bazujący na IIFE albo ECMAScript Module
 
+Rozwiązanie 👉 [PR#1](https://github.com/dkarski/warsawjs-workshop-51/pull/1/files)
